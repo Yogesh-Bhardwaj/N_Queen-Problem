@@ -2,8 +2,11 @@
 A program to display Backtracking approach for solving N_Queen Problem.</br>
 Given the no. of Queens the program displays step by step , using Backtracking how to get an arrangement of the queens so that no two queens kill each other.</br>
 Just clone the repository or copy the code , compile it and run it.</br>
-For Example :- </br>
-If n = 4 , Output will be</br>
+
+Example :- </br>
+```
+Enter number of Queens : 4
+Do you want to show each step [1 = yes,0 = no] : 1
 Placing Q1 at (1,1)
 
      Q1 -  -  -
@@ -102,3 +105,5 @@ Arrangement for 4 Queens :-
      -  -  -  Q4
      -  Q2 -  -
 
+
+```
